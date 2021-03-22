@@ -1,7 +1,4 @@
-# Hey,
-
-Olá, me chamo Lucas, tenho 16 anos e atualmente gosto de brincar com linguagens de programação como um hobby para passar o tempo e me divertir...
-
+"Tudo na vida depende do quanto você quer comer alguém" - Filosofo Piton, que teve nada mais nada menos que Karl Max como discípulo.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=LordLucass&%show_icons=true&theme=radical)
 
